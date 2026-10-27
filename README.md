@@ -1,1 +1,1 @@
-<img src="https://tools.thunk.click/langstats.php?private=1&top=11" alt="Top languages" width="495" height="222">
+<img src="https://tools.thunk.click/langstats.php?private=1&top=11&v=3" alt="Top languages" width="495" height="238">
